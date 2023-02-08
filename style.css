@@ -7,7 +7,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image:linear-gradient(rgba(1, 1, 2, 0.7),rgba(4,9,30,0.7)),url('../img/donation.jpg');
+    background-image:linear-gradient(rgb(41 242 219 / 70%),rgba(4,9,30,0.7)),url('../img/donation.jpg');
     background-position: center;
     
     background-size: cover;
@@ -18,7 +18,7 @@
 .img-logo {
     height: 60px;
     object-fit: contain;
-    color: rgb(228, 167, 83);
+    color: rgb(8, 206, 236);
     text-decoration: none;
     font-size: 14px;
 }
@@ -151,7 +151,7 @@ nav .fa{
     width:100%;
     text-align: center;
     padding: 30px 0;
-    background-color: rgb(254, 238, 208);
+    background-color: rgba(4,9,30,0.7);
 }
 
 .footer h4{
